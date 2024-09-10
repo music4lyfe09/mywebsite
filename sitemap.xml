@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://music4lyfe09.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://music4lyfe09.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://music4lyfe09.github.io/mywebsite/contact-us.html</loc>
+<lastmod>2024-09-03T09:31:20+02:00</lastmod>
+</url>
+<url>
+<loc>https://music4lyfe09.github.io/mywebsite/music-for-all-3.html</loc>
+<lastmod>2024-09-03T09:31:10+02:00</lastmod>
+</url>
+</urlset>
